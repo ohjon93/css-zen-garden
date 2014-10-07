@@ -1,0 +1,122 @@
+/* css Zen Garden default style v1.02 */
+/* css released under Creative Commons License - http://creativecommons.org/licenses/by-nc-sa/1.0/  */
+
+/* This file is a clean copy by Jacob A. Morris, based on 'Tranquille' by Dave Shea */
+/* You may use this file as a foundation for any new work, but you may find it easier to start from scratch. */
+/* Not all elements are defined in this file, so you'll most likely want to refer to the html as well. */
+
+
+/* basic elements */
+html {
+	margin: 0;
+	padding: 0;
+	}
+body { 
+	font: georgia, sans-serif;
+	color: #555753; 
+	background: #fff; 
+	margin: 0; 
+	padding: 0;
+	}
+p { 
+	margin-top: 0; 
+	text-align: justify;
+	}
+h3 { 
+	font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: #7D775C;
+	}
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #B7A5DF;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #D4CDDC;
+	}
+a:hover, a:focus, a:active { 
+	text-decoration: underline; 
+	color: #9685BA;
+	}
+abbr {
+	border-bottom: none;
+	}
+
+
+/* specific divs */
+.page-wrapper { 
+
+	}
+
+.intro { 
+	
+	}
+
+header h1 { 
+	}
+header h2 { 
+
+	}
+header {
+
+}
+
+.summary {
+
+	}
+.summary p {
+
+	}
+
+.preamble {
+
+	}
+.supporting {	
+
+	}
+
+footer { 
+
+	}
+footer a:link, footer a:visited { 
+
+	}
+
+.sidebar {
+
+	}
+.sidebar .wrapper { 
+
+	}
+.sidebar h3.select { 
+
+	}
+.sidebar h3.archives { 
+
+	}
+.sidebar h3.resources { 
+
+	}
+
+
+.sidebar ul {
+
+	}
+.sidebar li {
+
+	}
+.sidebar li a:link {
+
+	}
+.sidebar li a:visited {
+
+	}
+
+
+.extra1 {
+
+	}
